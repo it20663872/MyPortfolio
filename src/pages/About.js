@@ -20,7 +20,7 @@ const About = () => {
                         <div className="col-span-3 flex flex-col items-start justify-start">
                             <h2 className="mb-4 text-lg font-bold uppercase text-dark/75">Biography</h2>
                             <p className="font-medium">
-                                Hi, I'm CodeBucks, a web developer and UI/UX designer with a passion for creating beautiful, functional, 
+                                Hi, I'm Dasath, a web developer and UI/UX designer with a passion for creating beautiful, functional, 
                                 and user-centered digital experiences. I am always looking for 
                                 new and innovative ways to bring my clients' visions to life.
                             </p>
